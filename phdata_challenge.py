@@ -7,7 +7,7 @@ options = {
   "sfUrl": "*****************",
   "sfUser": "*************",
   "sfPassword": "**************",
-  "sfDatabase": "USER_FRANK_MEADS",
+  "sfDatabase": "USER_XXXXX_XXXXX",
   "sfSchema": "STAGE",
   "sfWarehouse": "INTERVIEW_WH"
 }
